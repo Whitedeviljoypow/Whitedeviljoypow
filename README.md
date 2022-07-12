@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <a href="https://t.me/whitedeviljoypow"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+  <a href="https://t.me/whitedeviljoypow"><img src="https://i.giphy.com/media/p4NLw3I4U0idi/giphy.gif"></a>
 
     </p>
 
